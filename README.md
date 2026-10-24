@@ -43,7 +43,8 @@ Learning more things from TryHackMe
 * Vulnversity
 
 **CTF tried:**
-*Pickle Rick
+* Pickle Rick
+* W1seGuy
 
 ### 💻 Important commands used/learned:
 ```
@@ -53,6 +54,7 @@ gobuster
 hydra
 john the ripper
 BurbSuite
+nc
 ```
 ### 💻 Important Tools used/learned:
 ```
@@ -69,3 +71,4 @@ CVE
 * regex
 * Starting attackbox and lab machine and using VPN
 * about bruteforcing
+* using root reverse shell
