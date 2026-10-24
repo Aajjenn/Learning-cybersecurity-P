@@ -41,6 +41,7 @@ Learning more things from TryHackMe
 * Regular Expressions
 * Basic Pentesting
 * Vulnversity
+* The Hacker Methodology
 
 **CTF tried:**
 * Pickle Rick
@@ -50,6 +51,7 @@ Learning more things from TryHackMe
 ```
 MAN
 nmap
+dirbuster(outdated)
 gobuster
 hydra
 john the ripper
@@ -62,6 +64,9 @@ BurbSuite
 Shodan
 VirusTotal
 CVE
+for information gathering: sublist3r, Hunter.io, BuiltWith and Wappalyzer
+metasploit
+SQLmap
 ```
 
 ### Learned:
